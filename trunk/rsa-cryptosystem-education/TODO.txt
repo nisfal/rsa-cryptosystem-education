@@ -1,0 +1,63 @@
+To-Do list:
+
+GENERAL:
+--------------------
+DONE Meeting a customer - due 19.1.
+DONE Write list of customer demands.
+DONE Diagram which shows how the message is travelling from A to B and when/how encryption/decryption is done. - due 24.1.
+DONE Powerpoint presentation - due 25.1.
+DONE Poster - due 30.1.
+DONE Sign up for the Showroom competition for student projects. - due 31.1.
+UML diagrams (class, use-case, acticity)
+
+
+GUI:
+--------------------
+DONE GUI layout
+GUI element diagram
+DONE Screenshot of the GUI
+
+CODE:
+--------------------
+DONE Design 3 types of padding schemes
+
+DONE -right click opens copy/paste menu
+
+DONE-after encryption, convert numbers to alphabets
+
+DONE -change * signs
+
+DONE -cancel option for jfilechooser
+
+DONE -show encryption/decryption lines
+
+DONE -when using blocks of 3 padding, test that n is greater than 17575, if not show jdialogmessage
+
+DONE -change padding checkboxes to radiobuttons.
+
+DONE -change clear keys button placement.
+
+DONE -write help
+
+DONE -check that when loading keys in secure mode, they are not visible in teach mode key fields.
+
+DONE -copy/paste popup for full screen
+
+DONE -paddingType1 has typo encryped
+
+DONE Exeptions to all classes (no sysout, use JOptionPane.showMessageDialog)
+
+DONE secure mode - erase rsa exec
+
+DONE >2048 -->messagdialog ()
+
+DONE -Padding type 1&2 in secure mode print only cryptotext
+
+DONE-gpl lisence text file and info about GPL lisence to every class's comments.
+
+-use open source unicode font
+
+-test that when pressing 'Create keys' multiple times in a short perioid of time program won't lag infinitely
+
+-Diagrams (class, sequence, component, use-case)
+
