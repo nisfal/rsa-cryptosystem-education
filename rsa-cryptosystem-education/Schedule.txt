@@ -1,0 +1,39 @@
+16.01. 3h	Get to know the project (The principles of the RSA cryptosystem, thinking of project demands).
+16.01. 3h	More detailed RSA algorithm exploring.
+16.01. 3h	Prototype of the code.
+17.01. 8h	Prototype of the code. Made a repository for the project and made it public on the Internet (github.com) for revision control.
+18.01. 1h	Preparing to meet the customer.
+18.01. 1h	Familiarizing with Git revision control.
+19.01. 4h	Customer meeting 1h and 3h familiarizing with Git revision control.
+21.01. 2h	Deciding which diagrams and reports are needed. 
+21.01. 3h	UML diagrams, Powerpoint presentation designing, defining methods.
+22.01. 3h	Coded 'Miller-Rabin primality test' to generate primes fast and with a very high probability.
+22.01. 2h	Updated main class in many ways.
+23.01. 3h	UML-diagrams, Powerpoint presentation designing and poster.
+25.01. 8h	Padding scheme: blocks of three. Alphabet to number and vice versa class.
+26.01. 8h	Actual Powerpoint presentation for the class of school colleagues. Designing GUI and poster. GUI programming.
+27.01. 5h	GUI design and programming. Final touches to the poster. Registered for the ICT Showroom 2009 competition.
+28.01. 6h	Started documentation, UML-diagrams, designing two types of padding schemes.
+30.01. 3h	Documentation, key save/load classes, two types of padding schemes.
+01.02. 8h	Key save/load classes.
+02.02. 6h	Key save/load classes. Two types of padding schemes. Customer meeting.
+04.02. 6h	Three types of padding schemes. Documentation.
+06.02. 4h	Padding schemes, documentation.
+07.02. 5h	Major GUI tweaking. Added listeners, font size selection, repositioned buttons, frame & panel size modif. and other fine tuning.
+08.02. 10h	GUI functionality: create keys, clear keys, save & load keys, save & load execution, font size selection. Full screen exec frame.
+11.02. 6h	GUI tweaking, help frame, padding schemes, documentation.
+13.02. 6h	Padding schemes, documentation. GUI tweaking.
+15.02. 6h	Blocks of three padding scheme - major update.
+16.02. 6h	Blocks of three padding scheme & Gui - major update.
+17.02. 2h	GUI tweaking.
+18.02. 3h	Copy/paste right click menu for Gui's two text areas.	
+20.02. 7h	New primality test, major GUI update and user input suitability test. Key generation: teach & secure mode.
+23.02. 3h	Padding schemes, documentation, testing.
+25.02. 3h	Padding schemes, documentation, testing.
+27.02. 7h	Padding schemes, documentation, testing. Wrote help and about.
+28.02. 4h	Padding schemes.
+01.03. 10h	Padding schemes, key save/load, GUI tweaking, testing, exceptions.
+02.03. 4h	Padding Schemes, Copy/paste, GUI tweaking, GPL lisence, testing.
+
+-------------------
+OVERALL: 172 h
