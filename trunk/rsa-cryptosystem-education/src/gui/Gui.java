@@ -1404,7 +1404,7 @@ public class Gui extends JFrame {
 				"Info: This software is a part of OOP course work at Turku University of Applied Sciences.\n" +
 				"GPL lisence: This software can be used, modified and redistibuted freely.\n" +
 				"No warranties of any kind.\n" +
-				"Feedback: petri.tuononen@students.turkuamk.fi", "About",
+				"Feedback: petri.tuononen@gmail.com", "About",
 				JOptionPane.PLAIN_MESSAGE);
 	}
 
