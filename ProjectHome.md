@@ -1,0 +1,4 @@
+RSA cryptosystem for educational use to teach and learn cryptography. Every step executed by the cryptosystem is visible (printed lines). User can select custom primes to create keys
+and then choose from three padding schemes to encrypt messages. Encryption steps are then printed on the screen and the user can learn how the encryption is done mathematically. User can even test if his/her encryption with pen and paper is correctly done. Great for teachers teaching cryptography and students desiring to learn.
+
+<img src='http://rsa-cryptosystem-education.googlecode.com/files/RSA_cryptosystem.png' alt='Screenshot' />
